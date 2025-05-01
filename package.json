@@ -1,0 +1,19 @@
+{
+  "name": "testhooksjs",
+  "version": "1.0.0",
+  "description": "Simple test tool for creating webhooks and events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wayne Sabourin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "uuid": "^9.0.1"
+  }
+}
